@@ -1,5 +1,5 @@
 <h1 align="Center">Hi! I'm Saran Raj
-  <img align="Center" alt="coding" width="50" 
+   
   <align="Right"> Welcome to my Profile
 
   <h2 align="Center"> "Data Detective with a penchant for crunching numbers and believes in Data for Good"
