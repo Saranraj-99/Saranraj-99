@@ -4,7 +4,7 @@
   <h2 align="Center"> "Data Detective with a penchant for crunching numbers and believes in Data for Good"
 
   <h2 align="Center"> About Me 
-  <img align "Center" alt="coding" width="80" 
+  
 src="https://camo.githubusercontent.com/1dada1d61b95dfad5cf74e9dcade962f7bbeb8e3e38c4b124c958c70d1605b0d/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f3458586f384137434957316c5a476764686d2f67697068792e676966">
 
 #### I am a data analyst with experience in using various tools and technologies to collect, organize, and analyze data to inform business decisions. I am proficient in Python, SQL, Excel, Power BI, and Tableau and MS - Excel and have a solid understanding of data analytics techniques.
